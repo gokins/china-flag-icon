@@ -5,13 +5,13 @@
 
 ---
 
-### 使用方式 (js已使用七牛CDN加速)
+### 使用方式
 
-* 默认：`<script src="https://staticqn.gitkin.com/i-love-china.js"></script> `
-* 左下：`<script src="https://staticqn.gitkin.com/i-love-china.js" layout="left-bottom"></script> `
-* 左下正方形：`<script src="https://staticqn.gitkin.com/i-love-china.js" style="square" layout="left-bottom"></script> `
-* 底部居中地图：`<script src="https://staticqn.gitkin.com/i-love-china.js" style="map" layout="bottom-center" width="32px" height="32px"></script> `
-* 一直显示在窗口：`<script src="https://staticqn.gitkin.com/i-love-china.js" position=""></script> `
+* 默认：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js"></script> `
+* 左下：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" layout="left-bottom"></script> `
+* 左下正方形：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" style="square" layout="left-bottom"></script> `
+* 底部居中地图：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" style="map" layout="bottom-center" width="32px" height="32px"></script> `
+* 一直显示在窗口：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" position=""></script> `
 
 参数说明：
 
