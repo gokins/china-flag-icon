@@ -1,5 +1,6 @@
 # china-flag-icon
 一行代码在网站上添加一个国旗角标。
+<img src="https://cdn.jsdelivr.net/gh/gokins/china-flag-icon/src/view.png" height="20px">
 * 角标位置：支持左上、左下、右上、右下、底部居中、自定义。
 * 角标形状：标准、圆形、正方形、地图。
 
