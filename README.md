@@ -1,5 +1,5 @@
 # china-website-icon
-
+一行代码在网站上添加一个国旗角标。
 * 角标位置：支持左上、左下、右上、右下、底部居中、自定义。
 * 角标形状：标准、圆形、正方形、地图。
 
@@ -7,11 +7,16 @@
 
 ### 使用方式
 
-* 默认：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js"></script> `
-* 左下：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" layout="left-bottom"></script> `
-* 左下正方形：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" style="square" layout="left-bottom"></script> `
-* 底部居中地图：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" style="map" layout="bottom-center" width="32px" height="32px"></script> `
-* 一直显示在窗口：`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" position=""></script> `
+* 默认：
+`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js"></script> `
+* 左下：
+`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" layout="left-bottom"></script> `
+* 左下正方形：
+`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" style="square" layout="left-bottom"></script> `
+* 底部居中地图：
+`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" style="map" layout="bottom-center" width="32px" height="32px"></script> `
+* 一直显示在窗口：
+`<script src="https://cdn.jsdelivr.net/gh/gokins/china-website-icon/src/i-love-china.js" position=""></script> `
 
 参数说明：
 
